@@ -2,7 +2,7 @@
 *this site well be the container for all 201 course reading-notes*
 ## Table of Content
 
-* read-01
+* [read-01](https://motasemalsqoor.github.io/reading-notes/class-01)
 * read-02
 * read-03
 * read-04
