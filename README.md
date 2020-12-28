@@ -1,8 +1,11 @@
 # Code 201 *Reading Notes*
 *this site well be the container for all 201 course reading-notes*
+
 ## Table of Content
-> kfejmksf
-* [read-01](https://motasemalsqoor.github.io/reading-notes/class-01)
+
+* [read-01](https://motasemalsqoor.github.io/reading-notes/class-01) 
+> Topics Summarizing
+
 * read-02
 * read-03
 * read-04
