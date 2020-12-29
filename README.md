@@ -7,7 +7,10 @@
 > Topics Summarizing
 
 * read-02
+
 * [read-03](https://motasemalsqoor.github.io/reading-notes/read03)
+> HTML list and boxes , javascript switch 
+
 * read-04
 * read-05
 * read-06
