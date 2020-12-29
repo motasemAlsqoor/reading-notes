@@ -7,7 +7,7 @@
 > Topics Summarizing
 
 * read-02
-* read-03
+* [read-03](https://motasemalsqoor.github.io/reading-notes/read03)
 * read-04
 * read-05
 * read-06
