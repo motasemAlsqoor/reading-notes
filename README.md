@@ -6,7 +6,7 @@
 * [read-01](https://motasemalsqoor.github.io/reading-notes/class-01) 
 > Topics Summarizing
 
-* read-02
+* [read-02](https://motasemalsqoor.github.io/reading-notes/read02)
 
 * [read-03](https://motasemalsqoor.github.io/reading-notes/read03)
 > HTML list and boxes , javascript switch 
