@@ -14,9 +14,9 @@
 * [read-04](https://motasemalsqoor.github.io/reading-notes/read04)
 > Html Links and layout
 * [read-05](https://motasemalsqoor.github.io/reading-notes/read05)
-* read-06
-* read-07
-* read-08
+* [read-06](https://motasemalsqoor.github.io/reading-notes/read06)
+* [read-07](https://motasemalsqoor.github.io/reading-notes/read07)
+* [read-08](https://motasemalsqoor.github.io/reading-notes/read08)
 * read-09
 * read-10
 * read-11
