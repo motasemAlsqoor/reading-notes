@@ -2,23 +2,15 @@
 
 ## Domain Modeling
 
-Domain modeling is the process of creating a conceptual model in code for a specific problem.
-
-A model describes the various entities, their attributes and behaviors.
-
-As well as the constraints that govern the problem domain.
-  
-An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
+Domain modeling refer to create general model for object that have properties and behavior for solving a specific problem
 
 ## Javascript constructor
 
 The constructor method is a special method for creating and initializing an object.
 
-## Document Object Mode
+## Document Object Model
 
-The Document Object Model **DOM** is a programming interface for HTML and XML documents.
-It represents the page so that programs can change the document structure, style, and content.
-The DOM represents the document as nodes and objects.
+api for html document , The DOM represents the document as tree of nodes.
 That way, programming languages can connect to the page.
 
 ## Html Table
