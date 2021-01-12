@@ -20,7 +20,8 @@
 * read-09
 * read-10
 * [read-11](https://motasemalsqoor.github.io/reading-notes/read11)
-* read-12
+* [read-12](https://motasemalsqoor.github.io/reading-notes/read12)
+> ChartJs
 * read-13
 * read-14
 * read-15
