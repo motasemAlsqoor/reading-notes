@@ -22,6 +22,7 @@
 * [read-11](https://motasemalsqoor.github.io/reading-notes/read11)
 * [read-12](https://motasemalsqoor.github.io/reading-notes/read12)
 > ChartJs
-* read-13
+* [read-13](https://motasemalsqoor.github.io/reading-notes/read13)
+>loacl storage
 * read-14
 * read-15
