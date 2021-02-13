@@ -3,8 +3,11 @@
 "is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes."(1)
 
 Responsive web design is broken to three ingredients :
+
     1. flexible grid
+    
     2. media queries
+    
     3. flexible media
 
 ## Flexible Grid
@@ -67,8 +70,11 @@ One quick way to make media scalable is by using the max-width property with a v
 
 ## quiz
 1) what does it take to create a responsive design?
+
     1. flexible grid
+    
     2. media queries
+    
     3. flexible media
 
 
