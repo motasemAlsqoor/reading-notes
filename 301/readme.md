@@ -16,3 +16,6 @@
 > Heroku
 * [read-06](https://motasemalsqoor.github.io/reading-notes/301/read-6) 
 > Node ,express
+
+* [read-08](https://motasemalsqoor.github.io/reading-notes/301/read-8) 
+> Sql
