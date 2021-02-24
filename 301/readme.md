@@ -19,3 +19,6 @@
 
 * [read-08](https://motasemalsqoor.github.io/reading-notes/301/read-8) 
 > Sql
+
+* [read-09](https://motasemalsqoor.github.io/reading-notes/301/read-9) 
+> functional programming
