@@ -22,3 +22,6 @@
 
 * [read-09](https://motasemalsqoor.github.io/reading-notes/301/read-9) 
 > functional programming
+
+* [read-10](https://motasemalsqoor.github.io/reading-notes/301/read-10) 
+> call stack and debuging 
