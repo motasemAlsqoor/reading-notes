@@ -14,10 +14,14 @@
 
 * [read-05](https://motasemalsqoor.github.io/reading-notes/301/read-5) 
 > Heroku
+
 * [read-06](https://motasemalsqoor.github.io/reading-notes/301/read-6) 
 > Node ,express
 
-* [read-08](https://motasemalsqoor.github.io/reading-notes/301/read-8) 
+* [read-07](https://motasemalsqoor.github.io/reading-notes/301/read-6) 
+> REST
+
+* [read-08](https://motasemalsqoor.github.io/reading-notes/301/read-7) 
 > Sql
 
 * [read-09](https://motasemalsqoor.github.io/reading-notes/301/read-9) 
@@ -25,3 +29,6 @@
 
 * [read-10](https://motasemalsqoor.github.io/reading-notes/301/read-10) 
 > call stack and debuging 
+
+* [read-11](https://motasemalsqoor.github.io/reading-notes/301/read-11) 
+> Embedded JavaScript templating.
