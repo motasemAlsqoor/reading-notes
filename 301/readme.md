@@ -18,10 +18,10 @@
 * [read-06](https://motasemalsqoor.github.io/reading-notes/301/read-6) 
 > Node ,express
 
-* [read-07](https://motasemalsqoor.github.io/reading-notes/301/read-6) 
+* [read-07](https://motasemalsqoor.github.io/reading-notes/301/read-7) 
 > REST
 
-* [read-08](https://motasemalsqoor.github.io/reading-notes/301/read-7) 
+* [read-08](https://motasemalsqoor.github.io/reading-notes/301/read-8) 
 > Sql
 
 * [read-09](https://motasemalsqoor.github.io/reading-notes/301/read-9) 
