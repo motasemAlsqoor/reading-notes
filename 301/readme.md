@@ -32,3 +32,6 @@
 
 * [read-11](https://motasemalsqoor.github.io/reading-notes/301/read-11) 
 > Embedded JavaScript templating.
+
+* [read-12](https://motasemalsqoor.github.io/reading-notes/301/read-12) 
+> EJS Components.
