@@ -35,3 +35,6 @@
 
 * [read-12](https://motasemalsqoor.github.io/reading-notes/301/read-12) 
 > EJS Components.
+
+* [read-14](https://motasemalsqoor.github.io/reading-notes/301/read-14) 
+> Database Normalization
