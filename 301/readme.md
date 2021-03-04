@@ -38,3 +38,5 @@
 
 * [read-14](https://motasemalsqoor.github.io/reading-notes/301/read-14) 
 > Database Normalization
+* [read-15](https://motasemalsqoor.github.io/reading-notes/301/read-15) 
+> Diversity & Inclusion in the Tech Industry
