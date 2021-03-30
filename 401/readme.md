@@ -5,3 +5,6 @@
 
 * [read-02](https://motasemalsqoor.github.io/reading-notes/401/read-2) 
 > Express
+
+* [read-03](https://motasemalsqoor.github.io/reading-notes/401/read-3) 
+> Express REST API
