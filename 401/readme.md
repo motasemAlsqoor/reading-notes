@@ -8,3 +8,6 @@
 
 * [read-03](https://motasemalsqoor.github.io/reading-notes/401/read-3) 
 > Express REST API
+
+* [read-04](https://motasemalsqoor.github.io/reading-notes/401/read-4) 
+> Data Modeling
