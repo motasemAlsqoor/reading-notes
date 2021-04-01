@@ -11,3 +11,6 @@
 
 * [read-04](https://motasemalsqoor.github.io/reading-notes/401/read-4) 
 > Data Modeling
+
+* [read-05](https://motasemalsqoor.github.io/reading-notes/401/read-5) 
+> Linked list
