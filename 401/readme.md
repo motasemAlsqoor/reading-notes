@@ -16,13 +16,13 @@
 > Linked list
 
 * [read-06](https://motasemalsqoor.github.io/reading-notes/401/read-6) 
-> Linked list
+> Authentication
 
 * [read-07](https://motasemalsqoor.github.io/reading-notes/401/read-7) 
 > Linked list
 
 * [read-08](https://motasemalsqoor.github.io/reading-notes/401/read-8) 
-> Linked list
+> Access Control (ACL)
 
 * [read-09](https://motasemalsqoor.github.io/reading-notes/401/read-9) 
 > Linked list
