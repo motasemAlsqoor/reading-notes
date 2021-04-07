@@ -25,7 +25,7 @@
 > Access Control (ACL)
 
 * [read-09](https://motasemalsqoor.github.io/reading-notes/401/read-9) 
-> Linked list
+> Oauth2
 
 * [read-10](https://motasemalsqoor.github.io/reading-notes/401/read-10) 
 > Linked list
