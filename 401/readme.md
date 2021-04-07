@@ -27,5 +27,8 @@
 * [read-09](https://motasemalsqoor.github.io/reading-notes/401/read-9) 
 > Oauth2
 
+* [read-10](https://motasemalsqoor.github.io/reading-notes/401/read-10) 
+> stack and queue
+
 * [read-11](https://motasemalsqoor.github.io/reading-notes/401/read-11) 
 > Event driven programming
