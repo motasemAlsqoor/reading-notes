@@ -32,3 +32,6 @@
 
 * [read-11](https://motasemalsqoor.github.io/reading-notes/401/read-11) 
 > Event driven programming
+
+* [read-12](https://motasemalsqoor.github.io/reading-notes/401/read-12) 
+> Socket Io
