@@ -39,3 +39,8 @@
 * [Trees](https://motasemalsqoor.github.io/reading-notes/401/trees)
 > Trees
 
+* [Cloud Servers](https://motasemalsqoor.github.io/reading-notes/401/read-16)
+> Cloud Servers
+
+* [AWS Lambda](https://motasemalsqoor.github.io/reading-notes/401/read-17)
+> AWS Lambda
