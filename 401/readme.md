@@ -44,3 +44,9 @@
 
 * [AWS Lambda](https://motasemalsqoor.github.io/reading-notes/401/read-17)
 > AWS Lambda
+
+* [AWS: API, Dynamo and Lambda](https://motasemalsqoor.github.io/reading-notes/401/read-18)
+> AWS: API, Dynamo and Lambda
+
+* [React](https://motasemalsqoor.github.io/reading-notes/401/read-26)
+> React
